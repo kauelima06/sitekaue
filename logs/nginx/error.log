@@ -1,0 +1,1 @@
+2022/12/08 17:04:00 [error] 1352#19892: *11580 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/async-upload.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10027", host: "sitekaue.local", referrer: "http://sitekaue.local/wp-admin/post.php?post=21&action=elementor"
